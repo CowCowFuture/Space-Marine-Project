@@ -195,3 +195,9 @@ Received Import Request.
   path: Assets/useless stuff
   artifactKey: Guid(0e7837b16bf14f9d4928efc05ac5af07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/useless stuff using Guid(0e7837b16bf14f9d4928efc05ac5af07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2440aa83db3c4a782906da3322e05731') in 0.000631 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 263.997099 seconds.
+  path: Assets/models/Characters
+  artifactKey: Guid(cf683b0bce191f844bcbce84dd98705e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/models/Characters using Guid(cf683b0bce191f844bcbce84dd98705e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00700858f22372173d9d95aa25b07d6c') in 0.000772 seconds 
