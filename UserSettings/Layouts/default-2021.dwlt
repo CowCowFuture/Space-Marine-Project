@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 17
+  controlID: 27
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 454
     height: 936
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -94,8 +94,8 @@ MonoBehaviour:
     y: 0
     width: 363
     height: 632
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -120,8 +120,8 @@ MonoBehaviour:
     y: 632
     width: 1466
     height: 304
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 101, y: 121}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 13}
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 103
+  controlID: 20
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 104
+  controlID: 21
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -354,14 +354,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: /home/ccf/code/unity/hlao/NIGHTMARENIGHTMARENIGHTMARENIGHTMARE
+  m_LastProjectPath: /home/ccf/code/unity/Ryan-s-Halo-Project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 65}
-    m_SelectedIDs: 786d0000
-    m_LastClickedID: 28024
-    m_ExpandedIDs: 00000000786d00007e70000082700000847000008670000000ca9a3bffffff7f
+    m_SelectedIDs: 205d0000
+    m_LastClickedID: 23840
+    m_ExpandedIDs: 00000000205d0000c45d000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -389,7 +389,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000205d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -414,9 +414,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: e8d6ffff
-    m_LastClickedInstanceID: -10520
-    m_HadKeyboardFocusLastEvent: 0
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -516,10 +516,10 @@ MonoBehaviour:
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 306}
-      m_SelectedIDs: def9ffff
-      m_LastClickedID: -1570
-      m_ExpandedIDs: 2ab0ffff84d9ffff02e5ffff0ae5ffff12e5ffff22e5ffff3ae5ffff42e5ffffaae5ffffbae5ffffc2e5ffffcae5ffffd2e5ffffe6e6fffffae6ffff02e7ffff12e7ffff1ae7ffff8ae7ffff9ae7ffffa6e7ffff36fbffff
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 9a590000
+      m_LastClickedID: 22938
+      m_ExpandedIDs: 3afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -768,9 +768,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -3.4837518, y: 1.606639, z: 0.14497516}
+    m_Target: {x: 0.16096926, y: 1.8765574, z: 2.4239764}
     speed: 2
-    m_Value: {x: -3.4837518, y: 1.606639, z: 0.14497516}
+    m_Value: {x: 0.16096926, y: 1.8765574, z: 2.4239764}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -817,9 +817,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.16387239, y: -0.74074376, z: 0.1953798, w: -0.6215569}
+    m_Target: {x: -0.045438346, y: -0.35446325, z: 0.017290002, w: -0.9338383}
     speed: 2
-    m_Value: {x: -0.16573109, y: -0.74013144, z: 0.19759516, w: -0.6210434}
+    m_Value: {x: -0.0440362, y: -0.35447785, z: 0.016757712, w: -0.9338766}
   m_Size:
     m_Target: 2.942004
     speed: 2
@@ -829,8 +829,8 @@ MonoBehaviour:
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 1.0005
-    m_SpeedNormalized: 0.49999997
+    m_Speed: 1.06047
+    m_SpeedNormalized: 0.53
     m_SpeedMin: 0.001
     m_SpeedMax: 2
     m_EasingEnabled: 1
