@@ -4,11 +4,30 @@ using UnityEngine;
 
 public class ray : MonoBehaviour
 {
-    void FixedUpdate()
+
+    private const KeyCode key = KeyCode.B;
+    private IEnumerator werewolf;
+
+    IEnumerator Werewolves(float delay)
     {
-        if (Physics.Raycast(transform.position, transform.TransformDirection(Vector3.forward)))
+        while (true)
         {
-            print("balls");
+            if (Physics.Raycast(transform.position, transform.TransformDirection(Vector3.forward)))
+            {
+                print("werewolves~");
+            }
+            yield return new WaitForSeconds(delay);
         }
+    }
+
+    void Update()
+    {
+        if (Input.GetKeyDown(key))
+        {
+            werewolf = Werewolves(.1f);
+            StartCoroutine(werewolf);
+        }
+        if (Input.GetKeyUp(key))
+            StopCoroutine(werewolf);
     }
 }
